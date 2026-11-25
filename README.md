@@ -23,9 +23,9 @@ is not English — Arabic, German, French, Portuguese, Russian.
 |---|---|---|---|
 | `male/` | 64 | 59 male · 5 unknown | 5 |
 | `female/` | 27 | 27 female | 3 |
-| `nigerian/` | 15 | 10 male · 4 female · 1 unknown | 9 |
+| `nigerian/` | 15 | 10 male · 4 female · 1 unknown | 8 |
 | `foreign/` | 13 | 10 male · 2 female · 1 unknown | 5 |
-| **All** | **119** | | **22** |
+| **All** | **119** | | **21** |
 
 ## Highlights per folder
 
@@ -34,13 +34,13 @@ is not English — Arabic, German, French, Portuguese, Russian.
 - **nigerian/** — Jamaldeen, Niyi Adelekan, Olaniyi Victor, Elrufai, Manasseh Mashi, Leo O Anifowose, Nimi Meta, Tanga Wanda, Ayomide FM NG, Dayo NG, olabisi FM NG, ololade, Flourish NG, Manaseh, My Voice.
 - **foreign/** — Arabic (Arab knight, Arabic 3, Rayyan, Sofian, Naseer, Sari), German (helmut, jonarsch, michheaal), French (Lison), Portuguese (Marcus), Russian (Stanislav), Spanish/Portuguese (Carlos).
 
-## 22 files flagged for your ear
+## 21 files flagged for your ear
 
 Gender/accent was inferred from names where the file name didn't say. These need a quick listen — the `needs_review` column in `manifest.csv` marks them:
 
 `male/`: Expressive Narrator, jsaccd, Sage, Surrey, theeconomist
 `female/`: Cass, Ember, Noushin
-`nigerian/`: Ayomide FM NG, Dayo NG, Flourish NG, Leo O Anifowose, Manaseh, My Voice, Nimi Meta, olabisi FM NG, Tanga Wanda
+`nigerian/`: Ayomide FM NG, Dayo NG, Flourish NG, Leo O Anifowose, Manaseh, My Voice, olabisi FM NG, Tanga Wanda
 `foreign/`: Arab knight, Arabic 3, Carlos, Naseer, Sari
 
 To fix one, move the file and edit its row in `manifest.csv` — or open an issue with the filename and the correction.
